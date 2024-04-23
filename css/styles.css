@@ -10,7 +10,7 @@ body, p {
 
 }
 
-h1, h3 {
+h1 {
     color: #b8b8ff;
     padding: 1em 0;
     margin: 0;
@@ -107,27 +107,7 @@ header .wrapper  {
     font-family: "Nothing You Could Do", cursive;
 }
 
-.hand {
-    width: 4em;
-    position: absolute;
-    top: -2rem;
-    right: 4rem;
-    transform: scalex(-1);
-}
 
-.highlighted {
-    background-color: #c5ffc0;
-    color: rgb(174, 0, 255);
-    border-radius: 20em;;
-    padding-right: 0.3em;
-    padding-left: 0.3em;
-    border: 2px solid #bbf8ff;
-    display: -webkit-inline-box;
-    margin: 0em;
-    transform: rotate(-3deg);
-    margin-top: 0.5rem;
-    display: inline-block;
-}
 
 #nav .main-nav {
 
