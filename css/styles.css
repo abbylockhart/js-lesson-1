@@ -54,6 +54,7 @@ footer p {
     align-items: center;
     justify-content: center;
     position: relative;
+        border: 1px lime solid;
 }
 header .wrapper  {
     display:flex;
@@ -88,12 +89,14 @@ header .wrapper  {
 
 #main-content {
     /* background-color: #F3F5F9; */
+
 }
 
 .main p {
     font-size: 1em;
     line-height: 1.5;
     color: #25255F;
+
 }
 
 #main-content h1 {
@@ -102,8 +105,8 @@ header .wrapper  {
 }
 
 .welcome-text .right {
-
-    padding: 0 200px;
+    border: 1px red solid;
+    padding: 0 20%;
     font-family: "Nothing You Could Do", cursive;
 }
 
@@ -146,3 +149,4 @@ a:hover{
 a:active{
     color: green;
 }
+
